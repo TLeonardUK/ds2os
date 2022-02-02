@@ -1,0 +1,9 @@
+{
+  "$schema": "https://raw.githubusercontent.com/microsoft/vcpkg/master/scripts/vcpkg.schema.json",
+  "name": "ds2os-server",
+  "version": "0.1.0",
+  "dependencies": [
+    "openssl",
+    "curl"
+  ]
+}
