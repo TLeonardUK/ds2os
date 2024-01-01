@@ -1,9 +1,0 @@
-{
-  "name": "oatpp-websocket",
-  "version": "1.2.5",
-  "description": "Oat++ websocket module.",
-  "homepage": "https://github.com/oatpp/oatpp-websocket",
-  "dependencies": [
-    "oatpp"
-  ]
-}

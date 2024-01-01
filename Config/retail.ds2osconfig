@@ -1,7 +1,0 @@
-{
-    "Name":"Retail Server",
-    "Description":"Same as retail server - WARNING: Will still trip tamper protection and potentially cause bans, only use for debugging.",
-    "Hostname":"frpg2-steam64-ope-login.fromsoftware-game.net",
-    "PublicKey":"-----BEGIN RSA PUBLIC KEY-----\nMIIBCAKCAQEAxSeDuBTm3AytrIOGjDKpwJY+437i1F8leMBASVkknYdzM5HB4z8X\nYTXDylr/N6XAhgr/LcFFZ68yQNQ4AquriMONB+TWUiX0xu84ixYH3AqRtIVqLQbQ\nxKZsTfyCRC94n9EnvPeS+ueM495YhLIJQBf9T2aCeoHZBFDh2CghJQCdyd4dOT/E\n9ZxPImwj1t2fZkkKo4smpGk7GcCask2SGsnk/P2jUJxsOyFlCojaW1IldPxn+lXH\ndlgHSLjQvMlWiZ2SmOwvJqPWMv6XyUXYqsOdejRJJQjV7jeDzYG8trX+bSQxnTAw\nENjvjslEcjBmzOCiqFTA/9H1jMjReZpI/wIBAw==\n-----END RSA PUBLIC KEY-----\n"
-}
-

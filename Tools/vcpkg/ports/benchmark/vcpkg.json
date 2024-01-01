@@ -1,7 +1,0 @@
-{
-  "name": "benchmark",
-  "version-semver": "1.5.5",
-  "description": "A library to support the benchmarking of functions, similar to unit-tests.",
-  "homepage": "https://github.com/google/benchmark",
-  "supports": "!uwp"
-}
